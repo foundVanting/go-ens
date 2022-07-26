@@ -17,7 +17,7 @@ package ens
 import (
 	"strings"
 
-	"golang.org/x/net/idna"
+	"github.com/foundVanting/idna"
 
 	"golang.org/x/crypto/sha3"
 )
