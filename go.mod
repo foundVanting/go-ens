@@ -3,13 +3,13 @@ module github.com/foundVanting/go-ens/v3
 go 1.18
 
 require (
-	github.com/ethereum/go-ethereum v1.10.19
+	github.com/ethereum/go-ethereum v1.10.20
 	github.com/foundVanting/idna v0.0.0-20220725105318-6176a8cd6af4
 	github.com/ipfs/go-cid v0.2.0
 	github.com/multiformats/go-multibase v0.1.1
 	github.com/multiformats/go-multihash v0.2.0
 	github.com/pkg/errors v0.9.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.2
 	github.com/wealdtech/go-multicodec v1.4.0
 	github.com/wealdtech/go-string2eth v1.1.0
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
@@ -41,6 +41,6 @@ require (
 	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/blake3 v1.1.6 // indirect
 )
